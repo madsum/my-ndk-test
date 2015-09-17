@@ -1,2 +1,2 @@
 # openshadow-test
-Just android test by openshadow
+Just android native test
